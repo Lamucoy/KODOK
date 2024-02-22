@@ -1,0 +1,5 @@
+hargapack = 20000 -- HARGA PACK
+namapack = "world_lock_10_pack" -- NAMA PACK
+MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
+maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
+iditempack = {242, 5664}
